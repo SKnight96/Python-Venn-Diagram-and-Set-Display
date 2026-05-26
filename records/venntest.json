@@ -1,0 +1,11 @@
+{"__type__": "VennObj", "tag": "set_1", "contents": ["1", "2", "3"], "overlap": ["set_2", "set_3", "set_4", "set_5", "set_7", "set_8", "set_10", "set_11"]}
+{"__type__": "VennObj", "tag": "set_2", "contents": ["3", "4", "5"], "overlap": ["set_1", "set_3", "set_5", "set_7", "set_8", "set_10"]}
+{"__type__": "VennObj", "tag": "set_3", "contents": ["3", "6", "7"], "overlap": ["set_1", "set_2", "set_4", "set_6", "set_7", "set_9", "set_11"]}
+{"__type__": "VennObj", "tag": "set_4", "contents": ["2", "7", "8"], "overlap": ["set_1", "set_3", "set_6", "set_7", "set_8", "set_9", "set_11"]}
+{"__type__": "VennObj", "tag": "set_5", "contents": ["1", "5", "0"], "overlap": ["set_1", "set_2", "set_7", "set_8", "set_9", "set_10", "set_11"]}
+{"__type__": "VennObj", "tag": "set_6", "contents": ["6", "7", "9"], "overlap": ["set_3", "set_4", "set_9", "set_11"]}
+{"__type__": "VennObj", "tag": "set_7", "contents": ["3", "8", "0"], "overlap": ["set_1", "set_2", "set_3", "set_4", "set_5", "set_8", "set_9", "set_10", "set_11"]}
+{"__type__": "VennObj", "tag": "set_8", "contents": ["1", "5", "8"], "overlap": ["set_1", "set_5", "set_2", "set_4", "set_7", "set_9", "set_10", "set_11"]}
+{"__type__": "VennObj", "tag": "set_9", "contents": ["7", "0", "8"], "overlap": ["set_3", "set_4", "set_6", "set_5", "set_7", "set_8", "set_10", "set_11"]}
+{"__type__": "VennObj", "tag": "set_10", "contents": ["4", "0", "1"], "overlap": ["set_2", "set_5", "set_7", "set_9", "set_1", "set_8", "set_11"]}
+{"__type__": "VennObj", "tag": "set_11", "contents": ["6", "8", "1"], "overlap": ["set_3", "set_6", "set_4", "set_7", "set_8", "set_9", "set_1", "set_5", "set_10"]}
